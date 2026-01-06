@@ -127,4 +127,4 @@
 ;; (gerar-senha 12)
 ;; (gerar-senha 16 {:simbolos? false})
 ;; (gerar-multiplas-senhas 5 10)
-;; (validar-forca-senha "Abc123!@#XYZ")
+;; (validar-forca-senha "Abc123!@#XYZ etc")
